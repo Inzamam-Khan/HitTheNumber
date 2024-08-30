@@ -91,7 +91,7 @@ function App() {
 
 
   return (
-    <div className="flex flex-col justify-center  border-black">
+    <div className="flex flex-col justify-center h-[70vH] border-black">
 
 
 
